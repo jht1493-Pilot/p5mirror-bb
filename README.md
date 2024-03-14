@@ -7,6 +7,12 @@ replace your-github in this link
 ```
 bin/mirror.sh --user p5name
 ```
+bin/mirror.sh --user benjamin.bergery
+
+unix shell script 
+then open Terminal in VS code
+and copy and paste above command in
+
 
 ## Notes
 
