@@ -1,373 +1,193 @@
-download 65 22 Monochrome copy-7vQfGCIyg
-download 66 22 Analogous Colors copy-TGftyxMb2
-download 67 22 Tetradic Colors copy-HKduu_l17
-download 68 22 Circle Rect visualization copy-EwyRfwTod
-download 69 22 Complementary Colors copy-PiRywzc0a
-download 70 22 Linear v. Exp Brightness copy-pS_17VMxv
-download 71 22 HSB swatches copy copy-2P2InCFK1
-download 72 22 HSB swatches copy-yd15VXpB6
-download 73 W8.1 resize images almost-s7CSybzZn
-download 74 CIRCULAR PIXELS version 4 vvv-H9C5i95mV
-download 75 8.3-2 Video Tint with R G B sliders vvv-gSj8LevtS
-download 76 v filter noisy infra red vvv-V9grqhsC4
-download 77 v slit v2 v slit v2 with checkbox vvv-LjP_Tq2Rv
-download 78 v filter x ghosts vvv-BfnX5ilgC
-download 79 v slit v2 continual-llRdBMku
-download 80 v filter x layers with sliders NO WORKY-U1umRp_ww
-download 81 video slit scan 1 take-VmxHBu2zG
-download 82 v slit v2-V1pWBSsf1
-download 83 v slit v1-6ygUbiOk-
-download 84 Pointillist Filter - Painting Technique copy copy-rB7cYM-1_
-download 85 video scan gap copy-hsj0emg3P
-download 86 video scan gap center copy-IxGDBUXo7
-download 87 W8.4 custom filter for pixel array in progress-Bh5bsj_Ml
-download 88  W8.3 in progress-5FCTsdPSs
-download 89 W8.3-1 Rotate with push and pop-IL0GEbwEC
-download 90 Video Tint with R G B sliders vvv-EWsyCHaVr
-download 91 VidEx R G B sliders v3 in progress-T3_x_w3Cl
-download 92 circular pixels version 3-2L0pNLXu3
-download 93 brightness mirror remix 2-O0RM-j26h
-download 94  BUTTON - SLIDER - CHECKBOX - UI via jht copy-KjVHYOpwM
-download 95 VidEx R G B sliders-77QaYnsBE
-download 96 W8 brightness_mirror remix-cIfoCspNy
-download 97 W8 image rotating around center-VbmGb6bj9
-download 98 W8.2 - Flip images done-dGCMl-FmX
-download 99 W8 make 4 translations of image-u5YMFPJnO
-download 100 VidEx - tinting with sliders in progress-GrYqbUf5W
-download 101  createCapture() - image() - filter()-LR8cNBO4x
-download 102 W6.2-1v6 Bouncing ball class vv-gmx5rZ32M
-download 103 W6.2 20 bouncing balls delete-oKDuDAZ6o
-download 104 W6.2-1 Bouncing ball class done xx-OlywNtrZ5
-download 105 W6.2-2 Bouncing squares using separate .js script for BsquareClass vv-MB6gURy6E
-download 106 W6.2-3 Bouncing gray squares vv-F7E7t3yBY
-download 107 W6.3v3 ZAPPING ball with SPLICE to ameliorate-atB6ZuXkj
-download 108 W6.4-2 red proximity black distance vv-nFLHbUrSe
-download 109 W6.4-4-UqMMWSe56
-download 110 W6.4-3 DONE zap nearby balls-wVRtwcaAM
-download 111  BUTTON, SLIDER, CHECK BOX UI via jht-HoI5QL6PR
-download 112 W6.2-3 Bouncing squares with color vs gray QUESTION2 copy copy-Nlv-eNAx6
-download 113  BUTTON - SLIDER - CHECKBOX - UI via jht-nfV8UCcHw
-download 114  W6.2-3 via jht COLOR AS ARRAY IN CLASS-I99IuqGL-
-download 115  W6.2-3 solved via jht COLOR ARRAY IN CLASS-ZVA2ewNQm
-download 116  W6.4-1v4 colliding balls DONE-VbVQXinn1
-download 117 W6.4-1v3 colliding balls whiten delay-HV3lLPVt
-download 118 W6.4-1v2 colliding balls-HIM7A0fnB
-download 119 W6.4-1v1 colliding balls FLICKERING color via new class function-T9sgI1OGl
-download 120 W6.3v2 clicking ball changes color-G0IG_KdWq
-download 121 W6.3v3 ZAPPING ball with SPLICE copy-0oPI4X5jx
-download 122 W6.2-2 slowing down with console.logs-Ogy8ffZmp
-download 123 W7 1st html-n9gfEMR29
-download 124 move W6.2-1 Bouncing ball class done v3-b6NkgW2XF
-download 125 NOTES ClassArray v3-vZBt4Luqm
-download 126 - W6.2-2 Bouncing words inprogress-Su-kanfYy
-download 127  ctrain disappearing trail linked to index-8xX0DRc8m
-download 128  ctrain dragged 10 bubble trail with mouse change color-LlZ61O7TQ
-download 129  Ex_11_09 Managing Many Objects-remix copy-ynTYbvYJu
-download 130  random bar code via jht-MpyHn5-A5
-download 131  jht black circle with color constructor-UWcEO3aM9
-download 132  ctrain for (let other of bubbles) - bubbles touching-Ft1iCnEQ6
-download 133 W6.2-3v2 Bouncing squares with color bounce QUESTION3-qb8C2B1vL
-download 134 mousePressed new circle instance-6WZWhrkaI
-download 135 W6.2-3 Bouncing squares with color method QUESTION-9uHOOvXT1
-download 136 p5js Code! - Array of Objects copy-k7ynWQYxq
-download 137 JS OVERVIEW-dQD_NiLXm
-download 138 Brief JS HISTORY-Zr24TUbDS
-download 139 ENCAPSULATION with CLASS-BeLk4-uSA
-download 140 3.3 bounce ball x OR ui copy copy-RCabdaNnb
-download 141 3.3 bounce ball x OR ui copy-XZgdz-LR-
-download 142 W6.1 filling in sketch done-pTZywMgNf
-download 143 ctrain7.3 DRAGbubbles-4SkQMM7xs
-download 144 nice cloudy texture-xzZNNL-Sy
-download 145 NOTES on CLASS v2-5YOA_XIDz
-download 146 ctrain 6.2-xsGIEGDsJ
-download 147 codingtrain 6.4 class with parameters v2-5PzfnZLT1
-download 148 codingtrain 6.4 class with parameters-69yyxVGgr
-download 149 NOTES on CLASS-UIGI-ViVz
-download 150 coding train 6-2 bubbles-CkQVhfEQs
-download 151 class NO worky-ylLeoUzb7
-download 152 W6 polylinear poem random stanza clicked copy-ZJKjyGSst
-download 153 W6.4 EXTRA interacting balls copy-X7ZTXUlbK
-download 154 Flawless bottom-FonxTF4ZV
-download 155 W6 polylinear poem -random stanza clicked copy-6Yo_3hLni
-download 156 Grass fire-XQcYvM-pc
-download 157 W4-6.3 v2 bouncing ball using functions with 2 OBJECT parameters copy-scLD_7SL-
-download 158 W4-6 bouncing ball 3 with OBKECT VARIABLE-U0dkgiI-K
-download 159 Rhinestone sand-w1X6kE-nw
-download 160 AND THEY WALKED -W5.1 polylinear poem v12 copy-Q6Y_niz40
-download 161 W6 polylinear poem -random stanza clicked-4Uw6X0SxP
-download 162 mousePressed ONCE vs mouseIsPressed CONTINOUS-DucPF3g7j
-download 163 W6 polylinear poem random line clicked-B7LBotlDU
-download 164 W6 poem linear clicked-Q8vOlruW9
-download 165 MOUSEPRESSED runs for 1 frame-UfzbtLINW
-download 166 W6 Polylinear Poem clicked-XuP5GvJDa
-download 167 TIMER using MODULO SLOW DOWN bb Zoog talks via jht1493-B22H_PB2V
-download 168 ARRAY MOUSEPRESS() codetrain example via jht-4RmcXxg7c
-download 169 TIMER using FRAMECOUNT via jht-XuEO7dj1f
-download 170 W6 CHECK VARIABLE SCOPE with console log-_562J4dx0
-download 171 TIMER using millis() via jht-Vq37MoRDA
-download 172 Week3 Worksheet-3 copy copy-vH1eZdyfZ
-download 173 AND THEY WALKED -W5.1 polylinear poem v14-7EoIUlPCe
-download 174 AND THEY WALKED -W5.1 polylinear poem - clicking-nRXYQlYGp
-download 175 AND THEY WALKED -W5.1 polylinear poem v12-8Y8kASs_4
-download 176 AND THEY WALKED -W5.1 polylinear poem v12 copy-WHMGg3YX3
-download 177 AND THEY WALKED -W5.1 polylinear poem v10-b_R02RoGb
-download 178 AND THEY WALKED -W5.1 polylinear poem v9-xg5WEq6Ns
-download 179 AND THEY WALKED -W5.1 polylinear poem v8-XmZC33uVlx
-download 180 W5.1 polylinear poem v7-3BV5W42ed
-download 181 W5.1 polylinear poem v6-ck8q3Le2j
-download 182 W5.1 polylinear poem v5-a0OmgsdN_
-download 183 W5.1 poly-linear poem v4-1DN0kKR9Q
-download 184 W5.1 polylinear poem 3-1MEfzqajQ
-download 185 W5.3b Zoog talks with motor mouth slider-elUyYA8uo
-download 186 W5 luminance slider-9ibsZMg_d
-download 187 coding train bouncing ball-NdpDJKk65
-download 188 Zoog copy-rMupajqA3
-download 189 W5.2 Zoog as functions-JYZXYruvZ
-download 190 W5.3a Zoog talks like a bad cartoon-UjXzCVArd
-download 191 GRAY EMBRACES v2-hvqY4BD5Z
-download 192 W4-6.5 GRAY LAVA LAMP jht with bb.c init in setup using color f-tVv68xYWi
-download 193 W4-6.3 bouncing ball using functions with object parameters-gZ2EAH3dy
-download 194 easing mouse movement by danne woo-krTvAr2Dv
-download 195 Week9_easing copy-hbUhYMe_S
-download 196 for jim 7-hKWbVBztQ
-download 197 for jim 6-xflvCd5LK
-download 198 for jim 5-RiMDIcEML
-download 199 for jim 4-YT2pCjxyx
-download 200 for jim 3-gIDcA9k7O
-download 201 for jim 2-hrgvA6a0l
-download 202 for jim-bVKo13NRU
-download 203 GRAY EMBRACES-nXoIPpoYn
-download 204 MASSAGE IN GRAY copy-Sw5q_usXE
-download 205 MASSAGE IN GRAY-DAqB_cne
-download 206 W5.1 poly-linear poem 2-V7IqMuKIf
-download 207 W5.1 polylinear poem-_ao-vmLX9
-download 208 p5js Code! - What is an Array copy-Mr6KnrT3R
-download 209 jht p5js Code! - What is an Array-waNQ6irZa
-download 210 3.3 counter for time copy-rDfVk_Y0o
-download 211 W4-6.5 GRAY LAVA LAMP jht bb.c init in setup-4NoXG3noW
-download 212 jht timed motion text squirrel-Rp266AE0z
-download 213 jht modulo and object literal-vJBmJCBAB
-download 214 vvv paint3 jht copy-ggbnWlans
-download 215 5W-2. Zoog portrait bb-kLRc7OZgI
-download 216 5W3. big eye small eye-8lhcthLzU
-download 217 W4-4.2 checkerboard - with if to run once-ue-zSrzo2
-download 218 W4-4.1 checkerboard-N7bfhhT7f
-download 219 W4-3.4 - column rainbow v1-s7BBMA_9H
-download 220 W4-3.3 column 7 white-ANvdT53wK
-download 221 W4-3.2 - columns blue-red-qAX_D0CGc
-download 222 W4-3.1 - columns - hover red-kHoiJQtP5
-download 223 W4-1 - 6 slimming circles-hOfkrYdPU
-download 224 W4-6.7 ABSTRACT KISS 1-WPUYPCj-x
-download 225 W4-6.5 GRAY LAVA LAMP-WFSCrkALb
-download 226 W4-5.2 blue lagoon with circles grid-lyYR_A8cJ
-download 227 W4-5,1 BLUE LAGOON shimmering water with random function nested-5kixGuS3V
-download 228 W4-6.3 bouncing ball using functions with object parametersers copy-oUI1lpnQv
-download 229 W4-6.7 COLOR LAVA LAMP-MKctZVaPX
-download 230 W4-6.4 GRAY LAVA LAMP using functions with object parameters-WUlFUTdMe
-download 231 W4-6.2 bouncing ball 3 with functions copy-F3GuRqAdb
-download 232 explore coordinates-OQmxEX_QX
-download 233 W4-6.2 bouncing ball 3 with functions-XzKPHUcw3
-download 234 4-5.3 embers-_n5nnMMr3
-download 235 W4-3.4b - column rainbow v1 copy-tKKcTAFuZ
-download 236 6 thickening circles-uYYRGpYl-
-download 237 checkerboard-sF9aKn5Ok
-download 238 bouncing ball 2-_ziZYo33V
-download 239 bouncing ball-ZjRXq40ba
-download 240 nested blue lagoon 2 w functions-hRIRprmpP
-download 241 blue lagoon tiny random-P9kEG2dzY
-download 242 nested blue lagoon 2-yqU8tFft0
-download 243 nested random bluish 2-zW5ILrDU8
-download 244 nested random loop embers 2-4AG9mzEs8
-download 245 nested loop 2 leafy-_29jJdB_c
-download 246 nested loop-H0O9WW4Ry
-download 247 vvv paint3-h71EfsMTT
-download 248 wk3-2 v9-NdHe05YNN
-download 249 wk3-2 v7 rect circle cross fade copy-323MtanXF
-download 250 wk3-2 v7 rect circle cross fade-mtHWZGAjHt
-download 251 wk3-2 v5 bg fade circle-Me8Jfz6w0
-download 252 wk3-2 v1 bg fadeup-DtBkhsQ-T
-download 253 drawing pmouseX pmouseY-kE6wzPBzM
-download 254 prob -how to detect mouse moving-PEHhywRyA
-download 255 mousePressed-1JNVmmul-
-download 256 touchpad no mouse-ZXHSr-oYA
-download 257 vv growing canvas-gWhhV2gQe
-download 258 vv Wk2-3 Moving Circles v3-hYId0HHjV
-download 259 xx global variable-i-JCrs7zq
-download 260 vv random circles 2-1-u7Sz9nw
-download 261 xrandom circles 4-ysAnZiG6D
-download 262 random circle diago-EhtHfCGcu
-download 263 random circles-tFTpUmA5F
-download 264 Wk2-3 Moving Circles v1-bhUDl-XQP
-download 265 rewriting4rectangles-hKGYeL3ws
-download 266 Blossom sardine-n1v3XjyKN
-download 267 paintWithAlpha-DUS1UU-I5
-download 268 FaultyCodeFixed-p5MIRiSe8
-download 269 5 concentric cirlcles-1s2E2B4DT
-download 270 kiss2-XCTCAD8lI
-download 271 starting place-Yigx0VrS2
-download 272 p5LiveMediaTest part4-hUKqMOtj5
-download 273 p5LiveMediaTest part3 copy-u0IMuz5X6
-download 274 p5LiveMediaTest part2-lWuzelv4E
-download 275 p5LiveMediaTest-jj0-7C3hT
-download 276 bleu 2-arP059m8v
-download 277 bleu-MH3xfg6ya
-download 278 p5LiveMedia Test Video dice bb-1UYjB0qW2
-download 279 dice meter slash line copy-3bQP48fTM
-download 280 dice video meter angle swing copy-OsbJJBkvL
-download 281 dice rgb tunnel slit Y copy-36Zn4QuEm
-download 282 dice meter slash rect copy-7XA9XO5q1
-download 283 dice pixel bestill rgb ui copy-Py6LiL6LL
-download 284 dice pixel bestill v3-CP1FBTg0A
-download 285 dice pixel bestill v2-lVWnRCRk8
-download 286 dice pixel bestill copy-twNWHRhlN
+unzip 193 W4-6.3 bouncing ball using functions with object parameters-gZ2EAH3dy
+unzip:  cannot find or open ../../downloads/zips/W4-6.3 bouncing ball using functions with object parameters-gZ2EAH3dy, ../../downloads/zips/W4-6.3 bouncing ball using functions with object parameters-gZ2EAH3dy.zip or ../../downloads/zips/W4-6.3 bouncing ball using functions with object parameters-gZ2EAH3dy.ZIP.
+unzip 194 easing mouse movement by danne woo-krTvAr2Dv
+unzip:  cannot find or open ../../downloads/zips/easing mouse movement by danne woo-krTvAr2Dv, ../../downloads/zips/easing mouse movement by danne woo-krTvAr2Dv.zip or ../../downloads/zips/easing mouse movement by danne woo-krTvAr2Dv.ZIP.
+unzip 195 Week9_easing copy-hbUhYMe_S
+unzip:  cannot find or open ../../downloads/zips/Week9_easing copy-hbUhYMe_S, ../../downloads/zips/Week9_easing copy-hbUhYMe_S.zip or ../../downloads/zips/Week9_easing copy-hbUhYMe_S.ZIP.
+unzip 196 for jim 7-hKWbVBztQ
+unzip:  cannot find or open ../../downloads/zips/for jim 7-hKWbVBztQ, ../../downloads/zips/for jim 7-hKWbVBztQ.zip or ../../downloads/zips/for jim 7-hKWbVBztQ.ZIP.
+unzip 197 for jim 6-xflvCd5LK
+unzip:  cannot find or open ../../downloads/zips/for jim 6-xflvCd5LK, ../../downloads/zips/for jim 6-xflvCd5LK.zip or ../../downloads/zips/for jim 6-xflvCd5LK.ZIP.
+unzip 198 for jim 5-RiMDIcEML
+unzip:  cannot find or open ../../downloads/zips/for jim 5-RiMDIcEML, ../../downloads/zips/for jim 5-RiMDIcEML.zip or ../../downloads/zips/for jim 5-RiMDIcEML.ZIP.
+unzip 199 for jim 4-YT2pCjxyx
+unzip:  cannot find or open ../../downloads/zips/for jim 4-YT2pCjxyx, ../../downloads/zips/for jim 4-YT2pCjxyx.zip or ../../downloads/zips/for jim 4-YT2pCjxyx.ZIP.
+unzip 200 for jim 3-gIDcA9k7O
+unzip:  cannot find or open ../../downloads/zips/for jim 3-gIDcA9k7O, ../../downloads/zips/for jim 3-gIDcA9k7O.zip or ../../downloads/zips/for jim 3-gIDcA9k7O.ZIP.
+unzip 201 for jim 2-hrgvA6a0l
+unzip:  cannot find or open ../../downloads/zips/for jim 2-hrgvA6a0l, ../../downloads/zips/for jim 2-hrgvA6a0l.zip or ../../downloads/zips/for jim 2-hrgvA6a0l.ZIP.
+unzip 202 for jim-bVKo13NRU
+unzip:  cannot find or open ../../downloads/zips/for jim-bVKo13NRU, ../../downloads/zips/for jim-bVKo13NRU.zip or ../../downloads/zips/for jim-bVKo13NRU.ZIP.
+unzip 203 GRAY EMBRACES-nXoIPpoYn
+unzip:  cannot find or open ../../downloads/zips/GRAY EMBRACES-nXoIPpoYn, ../../downloads/zips/GRAY EMBRACES-nXoIPpoYn.zip or ../../downloads/zips/GRAY EMBRACES-nXoIPpoYn.ZIP.
+unzip 204 MASSAGE IN GRAY copy-Sw5q_usXE
+unzip:  cannot find or open ../../downloads/zips/MASSAGE IN GRAY copy-Sw5q_usXE, ../../downloads/zips/MASSAGE IN GRAY copy-Sw5q_usXE.zip or ../../downloads/zips/MASSAGE IN GRAY copy-Sw5q_usXE.ZIP.
+unzip 205 MASSAGE IN GRAY-DAqB_cne
+unzip:  cannot find or open ../../downloads/zips/MASSAGE IN GRAY-DAqB_cne, ../../downloads/zips/MASSAGE IN GRAY-DAqB_cne.zip or ../../downloads/zips/MASSAGE IN GRAY-DAqB_cne.ZIP.
+unzip 206 W5.1 poly-linear poem 2-V7IqMuKIf
+unzip:  cannot find or open ../../downloads/zips/W5.1 poly-linear poem 2-V7IqMuKIf, ../../downloads/zips/W5.1 poly-linear poem 2-V7IqMuKIf.zip or ../../downloads/zips/W5.1 poly-linear poem 2-V7IqMuKIf.ZIP.
+unzip 207 W5.1 polylinear poem-_ao-vmLX9
+unzip:  cannot find or open ../../downloads/zips/W5.1 polylinear poem-_ao-vmLX9, ../../downloads/zips/W5.1 polylinear poem-_ao-vmLX9.zip or ../../downloads/zips/W5.1 polylinear poem-_ao-vmLX9.ZIP.
+unzip 208 p5js Code! - What is an Array copy-Mr6KnrT3R
+unzip:  cannot find or open ../../downloads/zips/p5js Code! - What is an Array copy-Mr6KnrT3R, ../../downloads/zips/p5js Code! - What is an Array copy-Mr6KnrT3R.zip or ../../downloads/zips/p5js Code! - What is an Array copy-Mr6KnrT3R.ZIP.
+unzip 209 jht p5js Code! - What is an Array-waNQ6irZa
+unzip:  cannot find or open ../../downloads/zips/jht p5js Code! - What is an Array-waNQ6irZa, ../../downloads/zips/jht p5js Code! - What is an Array-waNQ6irZa.zip or ../../downloads/zips/jht p5js Code! - What is an Array-waNQ6irZa.ZIP.
+unzip 210 3.3 counter for time copy-rDfVk_Y0o
+unzip:  cannot find or open ../../downloads/zips/3.3 counter for time copy-rDfVk_Y0o, ../../downloads/zips/3.3 counter for time copy-rDfVk_Y0o.zip or ../../downloads/zips/3.3 counter for time copy-rDfVk_Y0o.ZIP.
+unzip 211 W4-6.5 GRAY LAVA LAMP jht bb.c init in setup-4NoXG3noW
+unzip:  cannot find or open ../../downloads/zips/W4-6.5 GRAY LAVA LAMP jht bb.c init in setup-4NoXG3noW, ../../downloads/zips/W4-6.5 GRAY LAVA LAMP jht bb.c init in setup-4NoXG3noW.zip or ../../downloads/zips/W4-6.5 GRAY LAVA LAMP jht bb.c init in setup-4NoXG3noW.ZIP.
+unzip 212 jht timed motion text squirrel-Rp266AE0z
+unzip:  cannot find or open ../../downloads/zips/jht timed motion text squirrel-Rp266AE0z, ../../downloads/zips/jht timed motion text squirrel-Rp266AE0z.zip or ../../downloads/zips/jht timed motion text squirrel-Rp266AE0z.ZIP.
+unzip 213 jht modulo and object literal-vJBmJCBAB
+unzip:  cannot find or open ../../downloads/zips/jht modulo and object literal-vJBmJCBAB, ../../downloads/zips/jht modulo and object literal-vJBmJCBAB.zip or ../../downloads/zips/jht modulo and object literal-vJBmJCBAB.ZIP.
+unzip 214 vvv paint3 jht copy-ggbnWlans
+unzip:  cannot find or open ../../downloads/zips/vvv paint3 jht copy-ggbnWlans, ../../downloads/zips/vvv paint3 jht copy-ggbnWlans.zip or ../../downloads/zips/vvv paint3 jht copy-ggbnWlans.ZIP.
+unzip 215 5W-2. Zoog portrait bb-kLRc7OZgI
+unzip:  cannot find or open ../../downloads/zips/5W-2. Zoog portrait bb-kLRc7OZgI, ../../downloads/zips/5W-2. Zoog portrait bb-kLRc7OZgI.zip or ../../downloads/zips/5W-2. Zoog portrait bb-kLRc7OZgI.ZIP.
+unzip 216 5W3. big eye small eye-8lhcthLzU
+unzip:  cannot find or open ../../downloads/zips/5W3. big eye small eye-8lhcthLzU, ../../downloads/zips/5W3. big eye small eye-8lhcthLzU.zip or ../../downloads/zips/5W3. big eye small eye-8lhcthLzU.ZIP.
+unzip 217 W4-4.2 checkerboard - with if to run once-ue-zSrzo2
+unzip:  cannot find or open ../../downloads/zips/W4-4.2 checkerboard - with if to run once-ue-zSrzo2, ../../downloads/zips/W4-4.2 checkerboard - with if to run once-ue-zSrzo2.zip or ../../downloads/zips/W4-4.2 checkerboard - with if to run once-ue-zSrzo2.ZIP.
+unzip 218 W4-4.1 checkerboard-N7bfhhT7f
+unzip:  cannot find or open ../../downloads/zips/W4-4.1 checkerboard-N7bfhhT7f, ../../downloads/zips/W4-4.1 checkerboard-N7bfhhT7f.zip or ../../downloads/zips/W4-4.1 checkerboard-N7bfhhT7f.ZIP.
+unzip 219 W4-3.4 - column rainbow v1-s7BBMA_9H
+unzip:  cannot find or open ../../downloads/zips/W4-3.4 - column rainbow v1-s7BBMA_9H, ../../downloads/zips/W4-3.4 - column rainbow v1-s7BBMA_9H.zip or ../../downloads/zips/W4-3.4 - column rainbow v1-s7BBMA_9H.ZIP.
+unzip 220 W4-3.3 column 7 white-ANvdT53wK
+unzip:  cannot find or open ../../downloads/zips/W4-3.3 column 7 white-ANvdT53wK, ../../downloads/zips/W4-3.3 column 7 white-ANvdT53wK.zip or ../../downloads/zips/W4-3.3 column 7 white-ANvdT53wK.ZIP.
+unzip 221 W4-3.2 - columns blue-red-qAX_D0CGc
+unzip:  cannot find or open ../../downloads/zips/W4-3.2 - columns blue-red-qAX_D0CGc, ../../downloads/zips/W4-3.2 - columns blue-red-qAX_D0CGc.zip or ../../downloads/zips/W4-3.2 - columns blue-red-qAX_D0CGc.ZIP.
+unzip 222 W4-3.1 - columns - hover red-kHoiJQtP5
+unzip:  cannot find or open ../../downloads/zips/W4-3.1 - columns - hover red-kHoiJQtP5, ../../downloads/zips/W4-3.1 - columns - hover red-kHoiJQtP5.zip or ../../downloads/zips/W4-3.1 - columns - hover red-kHoiJQtP5.ZIP.
+unzip 223 W4-1 - 6 slimming circles-hOfkrYdPU
+unzip:  cannot find or open ../../downloads/zips/W4-1 - 6 slimming circles-hOfkrYdPU, ../../downloads/zips/W4-1 - 6 slimming circles-hOfkrYdPU.zip or ../../downloads/zips/W4-1 - 6 slimming circles-hOfkrYdPU.ZIP.
+unzip 224 W4-6.7 ABSTRACT KISS 1-WPUYPCj-x
+unzip:  cannot find or open ../../downloads/zips/W4-6.7 ABSTRACT KISS 1-WPUYPCj-x, ../../downloads/zips/W4-6.7 ABSTRACT KISS 1-WPUYPCj-x.zip or ../../downloads/zips/W4-6.7 ABSTRACT KISS 1-WPUYPCj-x.ZIP.
+unzip 225 W4-6.5 GRAY LAVA LAMP-WFSCrkALb
+unzip:  cannot find or open ../../downloads/zips/W4-6.5 GRAY LAVA LAMP-WFSCrkALb, ../../downloads/zips/W4-6.5 GRAY LAVA LAMP-WFSCrkALb.zip or ../../downloads/zips/W4-6.5 GRAY LAVA LAMP-WFSCrkALb.ZIP.
+unzip 226 W4-5.2 blue lagoon with circles grid-lyYR_A8cJ
+unzip:  cannot find or open ../../downloads/zips/W4-5.2 blue lagoon with circles grid-lyYR_A8cJ, ../../downloads/zips/W4-5.2 blue lagoon with circles grid-lyYR_A8cJ.zip or ../../downloads/zips/W4-5.2 blue lagoon with circles grid-lyYR_A8cJ.ZIP.
+unzip 227 W4-5,1 BLUE LAGOON shimmering water with random function nested-5kixGuS3V
+unzip:  cannot find or open ../../downloads/zips/W4-5,1 BLUE LAGOON shimmering water with random function nested-5kixGuS3V, ../../downloads/zips/W4-5,1 BLUE LAGOON shimmering water with random function nested-5kixGuS3V.zip or ../../downloads/zips/W4-5,1 BLUE LAGOON shimmering water with random function nested-5kixGuS3V.ZIP.
+unzip 228 W4-6.3 bouncing ball using functions with object parametersers copy-oUI1lpnQv
+unzip:  cannot find or open ../../downloads/zips/W4-6.3 bouncing ball using functions with object parametersers copy-oUI1lpnQv, ../../downloads/zips/W4-6.3 bouncing ball using functions with object parametersers copy-oUI1lpnQv.zip or ../../downloads/zips/W4-6.3 bouncing ball using functions with object parametersers copy-oUI1lpnQv.ZIP.
+unzip 229 W4-6.7 COLOR LAVA LAMP-MKctZVaPX
+unzip:  cannot find or open ../../downloads/zips/W4-6.7 COLOR LAVA LAMP-MKctZVaPX, ../../downloads/zips/W4-6.7 COLOR LAVA LAMP-MKctZVaPX.zip or ../../downloads/zips/W4-6.7 COLOR LAVA LAMP-MKctZVaPX.ZIP.
+unzip 230 W4-6.4 GRAY LAVA LAMP using functions with object parameters-WUlFUTdMe
+unzip:  cannot find or open ../../downloads/zips/W4-6.4 GRAY LAVA LAMP using functions with object parameters-WUlFUTdMe, ../../downloads/zips/W4-6.4 GRAY LAVA LAMP using functions with object parameters-WUlFUTdMe.zip or ../../downloads/zips/W4-6.4 GRAY LAVA LAMP using functions with object parameters-WUlFUTdMe.ZIP.
+unzip 231 W4-6.2 bouncing ball 3 with functions copy-F3GuRqAdb
+unzip:  cannot find or open ../../downloads/zips/W4-6.2 bouncing ball 3 with functions copy-F3GuRqAdb, ../../downloads/zips/W4-6.2 bouncing ball 3 with functions copy-F3GuRqAdb.zip or ../../downloads/zips/W4-6.2 bouncing ball 3 with functions copy-F3GuRqAdb.ZIP.
+unzip 232 explore coordinates-OQmxEX_QX
+unzip:  cannot find or open ../../downloads/zips/explore coordinates-OQmxEX_QX, ../../downloads/zips/explore coordinates-OQmxEX_QX.zip or ../../downloads/zips/explore coordinates-OQmxEX_QX.ZIP.
+unzip 233 W4-6.2 bouncing ball 3 with functions-XzKPHUcw3
+unzip:  cannot find or open ../../downloads/zips/W4-6.2 bouncing ball 3 with functions-XzKPHUcw3, ../../downloads/zips/W4-6.2 bouncing ball 3 with functions-XzKPHUcw3.zip or ../../downloads/zips/W4-6.2 bouncing ball 3 with functions-XzKPHUcw3.ZIP.
+unzip 234 4-5.3 embers-_n5nnMMr3
+unzip:  cannot find or open ../../downloads/zips/4-5.3 embers-_n5nnMMr3, ../../downloads/zips/4-5.3 embers-_n5nnMMr3.zip or ../../downloads/zips/4-5.3 embers-_n5nnMMr3.ZIP.
+unzip 235 W4-3.4b - column rainbow v1 copy-tKKcTAFuZ
+unzip:  cannot find or open ../../downloads/zips/W4-3.4b - column rainbow v1 copy-tKKcTAFuZ, ../../downloads/zips/W4-3.4b - column rainbow v1 copy-tKKcTAFuZ.zip or ../../downloads/zips/W4-3.4b - column rainbow v1 copy-tKKcTAFuZ.ZIP.
+unzip 236 6 thickening circles-uYYRGpYl-
+unzip:  cannot find or open ../../downloads/zips/6 thickening circles-uYYRGpYl-, ../../downloads/zips/6 thickening circles-uYYRGpYl-.zip or ../../downloads/zips/6 thickening circles-uYYRGpYl-.ZIP.
+unzip 237 checkerboard-sF9aKn5Ok
+unzip:  cannot find or open ../../downloads/zips/checkerboard-sF9aKn5Ok, ../../downloads/zips/checkerboard-sF9aKn5Ok.zip or ../../downloads/zips/checkerboard-sF9aKn5Ok.ZIP.
+unzip 238 bouncing ball 2-_ziZYo33V
+unzip:  cannot find or open ../../downloads/zips/bouncing ball 2-_ziZYo33V, ../../downloads/zips/bouncing ball 2-_ziZYo33V.zip or ../../downloads/zips/bouncing ball 2-_ziZYo33V.ZIP.
+unzip 239 bouncing ball-ZjRXq40ba
+unzip:  cannot find or open ../../downloads/zips/bouncing ball-ZjRXq40ba, ../../downloads/zips/bouncing ball-ZjRXq40ba.zip or ../../downloads/zips/bouncing ball-ZjRXq40ba.ZIP.
+unzip 240 nested blue lagoon 2 w functions-hRIRprmpP
+unzip:  cannot find or open ../../downloads/zips/nested blue lagoon 2 w functions-hRIRprmpP, ../../downloads/zips/nested blue lagoon 2 w functions-hRIRprmpP.zip or ../../downloads/zips/nested blue lagoon 2 w functions-hRIRprmpP.ZIP.
+unzip 241 blue lagoon tiny random-P9kEG2dzY
+unzip:  cannot find or open ../../downloads/zips/blue lagoon tiny random-P9kEG2dzY, ../../downloads/zips/blue lagoon tiny random-P9kEG2dzY.zip or ../../downloads/zips/blue lagoon tiny random-P9kEG2dzY.ZIP.
+unzip 242 nested blue lagoon 2-yqU8tFft0
+unzip:  cannot find or open ../../downloads/zips/nested blue lagoon 2-yqU8tFft0, ../../downloads/zips/nested blue lagoon 2-yqU8tFft0.zip or ../../downloads/zips/nested blue lagoon 2-yqU8tFft0.ZIP.
+unzip 243 nested random bluish 2-zW5ILrDU8
+unzip:  cannot find or open ../../downloads/zips/nested random bluish 2-zW5ILrDU8, ../../downloads/zips/nested random bluish 2-zW5ILrDU8.zip or ../../downloads/zips/nested random bluish 2-zW5ILrDU8.ZIP.
+unzip 244 nested random loop embers 2-4AG9mzEs8
+unzip:  cannot find or open ../../downloads/zips/nested random loop embers 2-4AG9mzEs8, ../../downloads/zips/nested random loop embers 2-4AG9mzEs8.zip or ../../downloads/zips/nested random loop embers 2-4AG9mzEs8.ZIP.
+unzip 245 nested loop 2 leafy-_29jJdB_c
+unzip:  cannot find or open ../../downloads/zips/nested loop 2 leafy-_29jJdB_c, ../../downloads/zips/nested loop 2 leafy-_29jJdB_c.zip or ../../downloads/zips/nested loop 2 leafy-_29jJdB_c.ZIP.
+unzip 246 nested loop-H0O9WW4Ry
+unzip:  cannot find or open ../../downloads/zips/nested loop-H0O9WW4Ry, ../../downloads/zips/nested loop-H0O9WW4Ry.zip or ../../downloads/zips/nested loop-H0O9WW4Ry.ZIP.
+unzip 247 vvv paint3-h71EfsMTT
+unzip:  cannot find or open ../../downloads/zips/vvv paint3-h71EfsMTT, ../../downloads/zips/vvv paint3-h71EfsMTT.zip or ../../downloads/zips/vvv paint3-h71EfsMTT.ZIP.
+unzip 248 wk3-2 v9-NdHe05YNN
+unzip:  cannot find or open ../../downloads/zips/wk3-2 v9-NdHe05YNN, ../../downloads/zips/wk3-2 v9-NdHe05YNN.zip or ../../downloads/zips/wk3-2 v9-NdHe05YNN.ZIP.
+unzip 249 wk3-2 v7 rect circle cross fade copy-323MtanXF
+unzip:  cannot find or open ../../downloads/zips/wk3-2 v7 rect circle cross fade copy-323MtanXF, ../../downloads/zips/wk3-2 v7 rect circle cross fade copy-323MtanXF.zip or ../../downloads/zips/wk3-2 v7 rect circle cross fade copy-323MtanXF.ZIP.
+unzip 250 wk3-2 v7 rect circle cross fade-mtHWZGAjHt
+unzip:  cannot find or open ../../downloads/zips/wk3-2 v7 rect circle cross fade-mtHWZGAjHt, ../../downloads/zips/wk3-2 v7 rect circle cross fade-mtHWZGAjHt.zip or ../../downloads/zips/wk3-2 v7 rect circle cross fade-mtHWZGAjHt.ZIP.
+unzip 251 wk3-2 v5 bg fade circle-Me8Jfz6w0
+unzip:  cannot find or open ../../downloads/zips/wk3-2 v5 bg fade circle-Me8Jfz6w0, ../../downloads/zips/wk3-2 v5 bg fade circle-Me8Jfz6w0.zip or ../../downloads/zips/wk3-2 v5 bg fade circle-Me8Jfz6w0.ZIP.
+unzip 252 wk3-2 v1 bg fadeup-DtBkhsQ-T
+unzip:  cannot find or open ../../downloads/zips/wk3-2 v1 bg fadeup-DtBkhsQ-T, ../../downloads/zips/wk3-2 v1 bg fadeup-DtBkhsQ-T.zip or ../../downloads/zips/wk3-2 v1 bg fadeup-DtBkhsQ-T.ZIP.
+unzip 253 drawing pmouseX pmouseY-kE6wzPBzM
+unzip:  cannot find or open ../../downloads/zips/drawing pmouseX pmouseY-kE6wzPBzM, ../../downloads/zips/drawing pmouseX pmouseY-kE6wzPBzM.zip or ../../downloads/zips/drawing pmouseX pmouseY-kE6wzPBzM.ZIP.
+unzip 254 prob -how to detect mouse moving-PEHhywRyA
+unzip:  cannot find or open ../../downloads/zips/prob -how to detect mouse moving-PEHhywRyA, ../../downloads/zips/prob -how to detect mouse moving-PEHhywRyA.zip or ../../downloads/zips/prob -how to detect mouse moving-PEHhywRyA.ZIP.
+unzip 255 mousePressed-1JNVmmul-
+unzip:  cannot find or open ../../downloads/zips/mousePressed-1JNVmmul-, ../../downloads/zips/mousePressed-1JNVmmul-.zip or ../../downloads/zips/mousePressed-1JNVmmul-.ZIP.
+unzip 256 touchpad no mouse-ZXHSr-oYA
+unzip:  cannot find or open ../../downloads/zips/touchpad no mouse-ZXHSr-oYA, ../../downloads/zips/touchpad no mouse-ZXHSr-oYA.zip or ../../downloads/zips/touchpad no mouse-ZXHSr-oYA.ZIP.
+unzip 257 vv growing canvas-gWhhV2gQe
+unzip:  cannot find or open ../../downloads/zips/vv growing canvas-gWhhV2gQe, ../../downloads/zips/vv growing canvas-gWhhV2gQe.zip or ../../downloads/zips/vv growing canvas-gWhhV2gQe.ZIP.
+unzip 258 vv Wk2-3 Moving Circles v3-hYId0HHjV
+unzip:  cannot find or open ../../downloads/zips/vv Wk2-3 Moving Circles v3-hYId0HHjV, ../../downloads/zips/vv Wk2-3 Moving Circles v3-hYId0HHjV.zip or ../../downloads/zips/vv Wk2-3 Moving Circles v3-hYId0HHjV.ZIP.
+unzip 259 xx global variable-i-JCrs7zq
+unzip:  cannot find or open ../../downloads/zips/xx global variable-i-JCrs7zq, ../../downloads/zips/xx global variable-i-JCrs7zq.zip or ../../downloads/zips/xx global variable-i-JCrs7zq.ZIP.
+unzip 260 vv random circles 2-1-u7Sz9nw
+unzip:  cannot find or open ../../downloads/zips/vv random circles 2-1-u7Sz9nw, ../../downloads/zips/vv random circles 2-1-u7Sz9nw.zip or ../../downloads/zips/vv random circles 2-1-u7Sz9nw.ZIP.
+unzip 261 xrandom circles 4-ysAnZiG6D
+unzip:  cannot find or open ../../downloads/zips/xrandom circles 4-ysAnZiG6D, ../../downloads/zips/xrandom circles 4-ysAnZiG6D.zip or ../../downloads/zips/xrandom circles 4-ysAnZiG6D.ZIP.
+unzip 262 random circle diago-EhtHfCGcu
+unzip:  cannot find or open ../../downloads/zips/random circle diago-EhtHfCGcu, ../../downloads/zips/random circle diago-EhtHfCGcu.zip or ../../downloads/zips/random circle diago-EhtHfCGcu.ZIP.
+unzip 263 random circles-tFTpUmA5F
+unzip:  cannot find or open ../../downloads/zips/random circles-tFTpUmA5F, ../../downloads/zips/random circles-tFTpUmA5F.zip or ../../downloads/zips/random circles-tFTpUmA5F.ZIP.
+unzip 264 Wk2-3 Moving Circles v1-bhUDl-XQP
+unzip:  cannot find or open ../../downloads/zips/Wk2-3 Moving Circles v1-bhUDl-XQP, ../../downloads/zips/Wk2-3 Moving Circles v1-bhUDl-XQP.zip or ../../downloads/zips/Wk2-3 Moving Circles v1-bhUDl-XQP.ZIP.
+unzip 265 rewriting4rectangles-hKGYeL3ws
+unzip:  cannot find or open ../../downloads/zips/rewriting4rectangles-hKGYeL3ws, ../../downloads/zips/rewriting4rectangles-hKGYeL3ws.zip or ../../downloads/zips/rewriting4rectangles-hKGYeL3ws.ZIP.
+unzip 266 Blossom sardine-n1v3XjyKN
+unzip:  cannot find or open ../../downloads/zips/Blossom sardine-n1v3XjyKN, ../../downloads/zips/Blossom sardine-n1v3XjyKN.zip or ../../downloads/zips/Blossom sardine-n1v3XjyKN.ZIP.
+unzip 267 paintWithAlpha-DUS1UU-I5
+unzip:  cannot find or open ../../downloads/zips/paintWithAlpha-DUS1UU-I5, ../../downloads/zips/paintWithAlpha-DUS1UU-I5.zip or ../../downloads/zips/paintWithAlpha-DUS1UU-I5.ZIP.
+unzip 268 FaultyCodeFixed-p5MIRiSe8
+unzip:  cannot find or open ../../downloads/zips/FaultyCodeFixed-p5MIRiSe8, ../../downloads/zips/FaultyCodeFixed-p5MIRiSe8.zip or ../../downloads/zips/FaultyCodeFixed-p5MIRiSe8.ZIP.
+unzip 269 5 concentric cirlcles-1s2E2B4DT
+unzip:  cannot find or open ../../downloads/zips/5 concentric cirlcles-1s2E2B4DT, ../../downloads/zips/5 concentric cirlcles-1s2E2B4DT.zip or ../../downloads/zips/5 concentric cirlcles-1s2E2B4DT.ZIP.
+unzip 270 kiss2-XCTCAD8lI
+unzip:  cannot find or open ../../downloads/zips/kiss2-XCTCAD8lI, ../../downloads/zips/kiss2-XCTCAD8lI.zip or ../../downloads/zips/kiss2-XCTCAD8lI.ZIP.
+unzip 271 starting place-Yigx0VrS2
+unzip:  cannot find or open ../../downloads/zips/starting place-Yigx0VrS2, ../../downloads/zips/starting place-Yigx0VrS2.zip or ../../downloads/zips/starting place-Yigx0VrS2.ZIP.
+unzip 272 p5LiveMediaTest part4-hUKqMOtj5
+unzip:  cannot find or open ../../downloads/zips/p5LiveMediaTest part4-hUKqMOtj5, ../../downloads/zips/p5LiveMediaTest part4-hUKqMOtj5.zip or ../../downloads/zips/p5LiveMediaTest part4-hUKqMOtj5.ZIP.
+unzip 273 p5LiveMediaTest part3 copy-u0IMuz5X6
+unzip:  cannot find or open ../../downloads/zips/p5LiveMediaTest part3 copy-u0IMuz5X6, ../../downloads/zips/p5LiveMediaTest part3 copy-u0IMuz5X6.zip or ../../downloads/zips/p5LiveMediaTest part3 copy-u0IMuz5X6.ZIP.
+unzip 274 p5LiveMediaTest part2-lWuzelv4E
+unzip:  cannot find or open ../../downloads/zips/p5LiveMediaTest part2-lWuzelv4E, ../../downloads/zips/p5LiveMediaTest part2-lWuzelv4E.zip or ../../downloads/zips/p5LiveMediaTest part2-lWuzelv4E.ZIP.
+unzip 275 p5LiveMediaTest-jj0-7C3hT
+unzip:  cannot find or open ../../downloads/zips/p5LiveMediaTest-jj0-7C3hT, ../../downloads/zips/p5LiveMediaTest-jj0-7C3hT.zip or ../../downloads/zips/p5LiveMediaTest-jj0-7C3hT.ZIP.
+unzip 276 bleu 2-arP059m8v
+unzip:  cannot find or open ../../downloads/zips/bleu 2-arP059m8v, ../../downloads/zips/bleu 2-arP059m8v.zip or ../../downloads/zips/bleu 2-arP059m8v.ZIP.
+unzip 277 bleu-MH3xfg6ya
+unzip:  cannot find or open ../../downloads/zips/bleu-MH3xfg6ya, ../../downloads/zips/bleu-MH3xfg6ya.zip or ../../downloads/zips/bleu-MH3xfg6ya.ZIP.
+unzip 278 p5LiveMedia Test Video dice bb-1UYjB0qW2
+unzip:  cannot find or open ../../downloads/zips/p5LiveMedia Test Video dice bb-1UYjB0qW2, ../../downloads/zips/p5LiveMedia Test Video dice bb-1UYjB0qW2.zip or ../../downloads/zips/p5LiveMedia Test Video dice bb-1UYjB0qW2.ZIP.
+unzip 279 dice meter slash line copy-3bQP48fTM
+unzip:  cannot find or open ../../downloads/zips/dice meter slash line copy-3bQP48fTM, ../../downloads/zips/dice meter slash line copy-3bQP48fTM.zip or ../../downloads/zips/dice meter slash line copy-3bQP48fTM.ZIP.
+unzip 280 dice video meter angle swing copy-OsbJJBkvL
+unzip:  cannot find or open ../../downloads/zips/dice video meter angle swing copy-OsbJJBkvL, ../../downloads/zips/dice video meter angle swing copy-OsbJJBkvL.zip or ../../downloads/zips/dice video meter angle swing copy-OsbJJBkvL.ZIP.
+unzip 281 dice rgb tunnel slit Y copy-36Zn4QuEm
+unzip:  cannot find or open ../../downloads/zips/dice rgb tunnel slit Y copy-36Zn4QuEm, ../../downloads/zips/dice rgb tunnel slit Y copy-36Zn4QuEm.zip or ../../downloads/zips/dice rgb tunnel slit Y copy-36Zn4QuEm.ZIP.
+unzip 282 dice meter slash rect copy-7XA9XO5q1
+unzip:  cannot find or open ../../downloads/zips/dice meter slash rect copy-7XA9XO5q1, ../../downloads/zips/dice meter slash rect copy-7XA9XO5q1.zip or ../../downloads/zips/dice meter slash rect copy-7XA9XO5q1.ZIP.
+unzip 283 dice pixel bestill rgb ui copy-Py6LiL6LL
+unzip:  cannot find or open ../../downloads/zips/dice pixel bestill rgb ui copy-Py6LiL6LL, ../../downloads/zips/dice pixel bestill rgb ui copy-Py6LiL6LL.zip or ../../downloads/zips/dice pixel bestill rgb ui copy-Py6LiL6LL.ZIP.
+unzip 284 dice pixel bestill v3-CP1FBTg0A
+unzip:  cannot find or open ../../downloads/zips/dice pixel bestill v3-CP1FBTg0A, ../../downloads/zips/dice pixel bestill v3-CP1FBTg0A.zip or ../../downloads/zips/dice pixel bestill v3-CP1FBTg0A.ZIP.
+unzip 285 dice pixel bestill v2-lVWnRCRk8
+unzip:  cannot find or open ../../downloads/zips/dice pixel bestill v2-lVWnRCRk8, ../../downloads/zips/dice pixel bestill v2-lVWnRCRk8.zip or ../../downloads/zips/dice pixel bestill v2-lVWnRCRk8.ZIP.
+unzip 286 dice pixel bestill copy-twNWHRhlN
+unzip:  cannot find or open ../../downloads/zips/dice pixel bestill copy-twNWHRhlN, ../../downloads/zips/dice pixel bestill copy-twNWHRhlN.zip or ../../downloads/zips/dice pixel bestill copy-twNWHRhlN.ZIP.
 
-/Users/benjamin/Desktop/myRepos/p5mirror-bb/p5projects
-unzip 1 vvv paint4-B_otf8ztN
-unzip 2 RGB HSB sliders v9-iFMrqJNnc
-unzip 3 RGB HSB sliders v8-L3c3chAPI
-unzip 4 RGB HSB sliders v7-z3GyEC4Nz
-unzip 5 RGB HSB sliders v6-4Ctez5mK_
-unzip 6 W4-2 - 10 mouse strings vvv-k0ruDpHbL
-unzip 7 Video Tint with R G B sliders vvv-21dwKOqnF
-unzip 8 interacting balls 641v6-Km3xFl28x
-unzip 9 interacting balls 641v5-xtI8MeYFy
-unzip 10 perlin noise copy-4BBtbMPpN
-unzip 11 perlin noise via fuqiumeng v6-QStPXqgSz
-unzip 12 Perlin noise illustration-087BCh22e
-unzip 13 blur halo copy-Feyyx0Sld
-unzip 14 graphing amplitude v2 with yellow rectangles vv-W_Ohky5RO
-unzip 15 halos-CCjcw7tuX
-unzip 16 CC 24 Perlin Noise Flow Field copy-1-FmOQs0W
-unzip 17 perlin noise via fuqiumeng v4-U5HK7feDP
-unzip 18 perlin noise via fuqiumeng v2-DOgBYqVqt
-unzip 19 perlin noise via fuqiumeng-Ef07WL0S
-unzip 20 Facemesh_Webcam copy-NKVwt61sc
-unzip 21 gradients-7bKDTM9wM
-unzip 22 blur-zm1e9wR_t
-unzip 23 blur halo-oFDtNUwXx
-unzip 24 blurring vvv-eKj6ob0uS
-unzip 25 WK11 Reverb by Cassie Tarakajian copy copy-2RpY5bPrQ
-unzip 26 CC 58 - Earthquake Visualization 3D copy copy-2GGu3KWGR
-unzip 27 Saber glockenspiel-mtXBbBrc6
-unzip 28 TIMER using millis() via jht v2-pQZhMlt3C
-unzip 29 verse from text file-oo4PHj-SN
-unzip 30 musical strokes copy-tOnZxVB36
-unzip 31 musical strokes-wMoZv0uXQ
-unzip 32 24 Record and Loop copy-PW40L0PWv
-unzip 33 24 Loopy % Drum copy-033aR-UST
-unzip 34 WK11 Delay by Cassie Tarakajian copy-2vDUrycEt
-unzip 35 explore audio decay with this-KnCx8dUwe
-unzip 36 make piano2 from this-M66l1mlvR
-unzip 37 sine sawtooth triangle square visual audio via enickles-1hlb06o_F
-unzip 38 visual audio sine oscillator by enickles-4aZcWPLpA
-unzip 39 make piano from this-1hylWKzbc
-unzip 40 Example - ICM 21 Gong Pitch Slider-WbZ2ifZ23
-unzip 41 scale-graph-3 copy-ZEUAA_FGQ
-unzip 42 oscillator via jht-m-U6k1J8S
-unzip 43 17.6_soundSynthesis copy-iIFgKgLix
-unzip 44 graphing amplitude v3 noFill() so just the line vv-dm1EOCaEX
-unzip 45 graphing amplitude v1-G4b3xCx7H
-unzip 46 sound amp modulating ellipse v3-n6RqU2WpV
-unzip 47 sound amp modulating ellipse v2-gAsYMIAJh
-unzip 48 sound amp modulating ellipse-Ky8-K_K_G
-unzip 49 sound playback sliders callback pause button v3-dHeNZ2q0-
-unzip 50 sound playback sliders callback v2b-GbDLSr_0o
-unzip 51 sound playback sliders preload v2-a5od6r5TS
-unzip 52 sound playback v1-_RR7GxYAO
-unzip 53 RGB HSB sliders v5-uAZuz9rfw
-unzip 54 RGB HSB sliders v4-SRxmhK37U
-unzip 55 W5.3b Zoog talks with motor mouth slider v2 vvv-vEbxaE42s
-unzip 56 challenge colors in array-lxGgadBIT
-unzip 57 v slit v2 v slit v2 with 2nd checkbox NO WORKy-i1VgcSlJh
-unzip 58 11.6 Painting with Pixels - faster copy-A6PXN0etJ
-unzip 59 Spotlight copy-hpzbOgonj
-unzip 60 22 Triadic Color copy-tpD51gLUU
-unzip 61 Josef Albers squares copy-u4VugArVv
-unzip 62 22 Rothko's Cat copy-l7LdjibmW
-unzip 63 22 Tri-Color Background-Foreground copy-40Py5XYtj
-unzip 64 22 Saturation copy-cxSXi_s6h
-unzip 65 22 Monochrome copy-7vQfGCIyg
-unzip 66 22 Analogous Colors copy-TGftyxMb2
-unzip 67 22 Tetradic Colors copy-HKduu_l17
-unzip 68 22 Circle Rect visualization copy-EwyRfwTod
-unzip 69 22 Complementary Colors copy-PiRywzc0a
-unzip 70 22 Linear v. Exp Brightness copy-pS_17VMxv
-unzip 71 22 HSB swatches copy copy-2P2InCFK1
-unzip 72 22 HSB swatches copy-yd15VXpB6
-unzip 73 W8.1 resize images almost-s7CSybzZn
-unzip 74 CIRCULAR PIXELS version 4 vvv-H9C5i95mV
-unzip 75 8.3-2 Video Tint with R G B sliders vvv-gSj8LevtS
-unzip 76 v filter noisy infra red vvv-V9grqhsC4
-unzip 77 v slit v2 v slit v2 with checkbox vvv-LjP_Tq2Rv
-unzip 78 v filter x ghosts vvv-BfnX5ilgC
-unzip 79 v slit v2 continual-llRdBMku
-unzip 80 v filter x layers with sliders NO WORKY-U1umRp_ww
-unzip 81 video slit scan 1 take-VmxHBu2zG
-unzip 82 v slit v2-V1pWBSsf1
-unzip 83 v slit v1-6ygUbiOk-
-unzip 84 Pointillist Filter - Painting Technique copy copy-rB7cYM-1_
-unzip 85 video scan gap copy-hsj0emg3P
-unzip 86 video scan gap center copy-IxGDBUXo7
-unzip 87 W8.4 custom filter for pixel array in progress-Bh5bsj_Ml
-unzip 88  W8.3 in progress-5FCTsdPSs
-unzip 89 W8.3-1 Rotate with push and pop-IL0GEbwEC
-unzip 90 Video Tint with R G B sliders vvv-EWsyCHaVr
-unzip 91 VidEx R G B sliders v3 in progress-T3_x_w3Cl
-unzip 92 circular pixels version 3-2L0pNLXu3
-unzip 93 brightness mirror remix 2-O0RM-j26h
-unzip 94  BUTTON - SLIDER - CHECKBOX - UI via jht copy-KjVHYOpwM
-unzip 95 VidEx R G B sliders-77QaYnsBE
-unzip 96 W8 brightness_mirror remix-cIfoCspNy
-unzip 97 W8 image rotating around center-VbmGb6bj9
-unzip 98 W8.2 - Flip images done-dGCMl-FmX
-unzip 99 W8 make 4 translations of image-u5YMFPJnO
-unzip 100 VidEx - tinting with sliders in progress-GrYqbUf5W
-unzip 101  createCapture() - image() - filter()-LR8cNBO4x
-unzip 102 W6.2-1v6 Bouncing ball class vv-gmx5rZ32M
-unzip 103 W6.2 20 bouncing balls delete-oKDuDAZ6o
-unzip 104 W6.2-1 Bouncing ball class done xx-OlywNtrZ5
-unzip 105 W6.2-2 Bouncing squares using separate .js script for BsquareClass vv-MB6gURy6E
-unzip 106 W6.2-3 Bouncing gray squares vv-F7E7t3yBY
-unzip 107 W6.3v3 ZAPPING ball with SPLICE to ameliorate-atB6ZuXkj
-unzip 108 W6.4-2 red proximity black distance vv-nFLHbUrSe
-unzip 109 W6.4-4-UqMMWSe56
-unzip 110 W6.4-3 DONE zap nearby balls-wVRtwcaAM
-unzip 111  BUTTON, SLIDER, CHECK BOX UI via jht-HoI5QL6PR
-unzip 112 W6.2-3 Bouncing squares with color vs gray QUESTION2 copy copy-Nlv-eNAx6
-unzip 113  BUTTON - SLIDER - CHECKBOX - UI via jht-nfV8UCcHw
-unzip 114  W6.2-3 via jht COLOR AS ARRAY IN CLASS-I99IuqGL-
-unzip 115  W6.2-3 solved via jht COLOR ARRAY IN CLASS-ZVA2ewNQm
-unzip 116  W6.4-1v4 colliding balls DONE-VbVQXinn1
-unzip 117 W6.4-1v3 colliding balls whiten delay-HV3lLPVt
-unzip 118 W6.4-1v2 colliding balls-HIM7A0fnB
-unzip 119 W6.4-1v1 colliding balls FLICKERING color via new class function-T9sgI1OGl
-unzip 120 W6.3v2 clicking ball changes color-G0IG_KdWq
-unzip 121 W6.3v3 ZAPPING ball with SPLICE copy-0oPI4X5jx
-unzip 122 W6.2-2 slowing down with console.logs-Ogy8ffZmp
-unzip 123 W7 1st html-n9gfEMR29
-unzip 124 move W6.2-1 Bouncing ball class done v3-b6NkgW2XF
-unzip 125 NOTES ClassArray v3-vZBt4Luqm
-unzip 126 - W6.2-2 Bouncing words inprogress-Su-kanfYy
-rm: illegal option --  
-usage: rm [-f | -i] [-dIPRrvWx] file ...
-       unlink [--] file
-mkdir: illegal option --  
-usage: mkdir [-pv] [-m mode] directory_name ...
-downloads/gen/unzip.sh: line 882: cd: - : invalid option
-cd: usage: cd [-L|-P] [dir]
-unzip:  cannot find or open ../../downloads/zips/- W6.2-2 Bouncing words inprogress-Su-kanfYy, ../../downloads/zips/- W6.2-2 Bouncing words inprogress-Su-kanfYy.zip or ../../downloads/zips/- W6.2-2 Bouncing words inprogress-Su-kanfYy.ZIP.
-unzip 127  ctrain disappearing trail linked to index-8xX0DRc8m
-unzip:  cannot find or open ../../downloads/zips/ ctrain disappearing trail linked to index-8xX0DRc8m, ../../downloads/zips/ ctrain disappearing trail linked to index-8xX0DRc8m.zip or ../../downloads/zips/ ctrain disappearing trail linked to index-8xX0DRc8m.ZIP.
-unzip 128  ctrain dragged 10 bubble trail with mouse change color-LlZ61O7TQ
-unzip:  cannot find or open ../../downloads/zips/ ctrain dragged 10 bubble trail with mouse change color-LlZ61O7TQ, ../../downloads/zips/ ctrain dragged 10 bubble trail with mouse change color-LlZ61O7TQ.zip or ../../downloads/zips/ ctrain dragged 10 bubble trail with mouse change color-LlZ61O7TQ.ZIP.
-unzip 129  Ex_11_09 Managing Many Objects-remix copy-ynTYbvYJu
-unzip:  cannot find or open ../../downloads/zips/ Ex_11_09 Managing Many Objects-remix copy-ynTYbvYJu, ../../downloads/zips/ Ex_11_09 Managing Many Objects-remix copy-ynTYbvYJu.zip or ../../downloads/zips/ Ex_11_09 Managing Many Objects-remix copy-ynTYbvYJu.ZIP.
-unzip 130  random bar code via jht-MpyHn5-A5
-unzip:  cannot find or open ../../downloads/zips/ random bar code via jht-MpyHn5-A5, ../../downloads/zips/ random bar code via jht-MpyHn5-A5.zip or ../../downloads/zips/ random bar code via jht-MpyHn5-A5.ZIP.
-unzip 131  jht black circle with color constructor-UWcEO3aM9
-unzip:  cannot find or open ../../downloads/zips/ jht black circle with color constructor-UWcEO3aM9, ../../downloads/zips/ jht black circle with color constructor-UWcEO3aM9.zip or ../../downloads/zips/ jht black circle with color constructor-UWcEO3aM9.ZIP.
-unzip 132  ctrain for (let other of bubbles) - bubbles touching-Ft1iCnEQ6
-unzip:  cannot find or open ../../downloads/zips/ ctrain for (let other of bubbles) - bubbles touching-Ft1iCnEQ6, ../../downloads/zips/ ctrain for (let other of bubbles) - bubbles touching-Ft1iCnEQ6.zip or ../../downloads/zips/ ctrain for (let other of bubbles) - bubbles touching-Ft1iCnEQ6.ZIP.
+benjamin@notebookb p5mirror-bb % sh downloads/gen/unzip.sh
 unzip 133 W6.2-3v2 Bouncing squares with color bounce QUESTION3-qb8C2B1vL
 unzip:  cannot find or open ../../downloads/zips/W6.2-3v2 Bouncing squares with color bounce QUESTION3-qb8C2B1vL, ../../downloads/zips/W6.2-3v2 Bouncing squares with color bounce QUESTION3-qb8C2B1vL.zip or ../../downloads/zips/W6.2-3v2 Bouncing squares with color bounce QUESTION3-qb8C2B1vL.ZIP.
 unzip 134 mousePressed new circle instance-6WZWhrkaI
@@ -676,10 +496,5 @@ unzip 285 dice pixel bestill v2-lVWnRCRk8
 unzip:  cannot find or open ../../downloads/zips/dice pixel bestill v2-lVWnRCRk8, ../../downloads/zips/dice pixel bestill v2-lVWnRCRk8.zip or ../../downloads/zips/dice pixel bestill v2-lVWnRCRk8.ZIP.
 unzip 286 dice pixel bestill copy-twNWHRhlN
 unzip:  cannot find or open ../../downloads/zips/dice pixel bestill copy-twNWHRhlN, ../../downloads/zips/dice pixel bestill copy-twNWHRhlN.zip or ../../downloads/zips/dice pixel bestill copy-twNWHRhlN.ZIP.
-
-argv user_name benjamin.bergery
-my.user_name benjamin.bergery
-my.root_path /Users/benjamin/Desktop/myRepos/p5mirror-bb
-dfiles n 125
 
 benjamin@notebookb p5mirror-bb % 
